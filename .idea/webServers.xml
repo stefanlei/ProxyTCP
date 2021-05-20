@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1868caf4-db76-4e48-8f65-cd415b7399c5" name="mozigu_dev">
+        <fileTransfer accessType="SFTP" host="59.110.42.211" port="22" sshConfigId="574ee76c-5da4-4d3a-a128-cd6ae112cfc1" sshConfig="root@59.110.42.211:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
